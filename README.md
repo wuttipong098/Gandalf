@@ -6,4 +6,4 @@
 1.แล็บ Git
 2.lab HTML
 
-![alt text](https://news.italy24.press/content/uploads/2023/02/21/682875529e)
+![alt text](https://m.media-amazon.com/images/I/81OMrE1LGUL._AC_UF1000,1000_QL80_.jpg)
