@@ -6,4 +6,4 @@
 1.แล็บ Git
 2.lab HTML
 
-![alt text]((https://www.rollingstone.com/wp-content/uploads/2023/04/airpods-max-deal-e1682113781377.jpg)https://www.rollingstone.com/wp-content/uploads/2023/04/airpods-max-deal-e1682113781377.jpg)
+	![alt text](https://news.italy24.press/content/uploads/2023/02/21/682875529e.jpg)
